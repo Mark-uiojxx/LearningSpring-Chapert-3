@@ -19,6 +19,8 @@
             <groupId>org.mylearn</groupId>
             <artifactId>smart-framework</artifactId>
             <version>1.0.0</version>
+            <!--<scope>system</scope>
+            <systemPath>${project.basedir}/lib/demo.jar</systemPath>-->
         </dependency>
     </dependencies>
 
